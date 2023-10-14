@@ -14,4 +14,4 @@ The endpoints used in the app:
 The endpoints are all available [here](https://developer.accuweather.com/accuweather-locations-api/apis)
 
 ## Presentation
-https://youtu.be/6L_93Qe1_mU
+https://youtu.be/JmakAkeyWks
