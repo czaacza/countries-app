@@ -1,6 +1,8 @@
 # countries-app
 Frontend application using AccuWeather API. App created as an assignment for the Mobile and Web Development Course held at Warsaw University of Technology.
 
+<img src="https://github.com/czaacza/countries-app/blob/master/img/countries-app-img.png" height="400" />
+
 ## How does it work?
 According to the requirements, the application is using 5 different endpoints in order to fetch the data from the AccuWeather API source.
 
